@@ -3,7 +3,7 @@
 地震情報をオーバーレイ表示するアプリケーションです。
 ※本アプリは開発中のテスト版（ベータ版）となります。
 
-ダウンロードは [こちら](https://github.com/mocchii1220-main/-/releases/tag/v1.1.0pre)
+ダウンロードは [こちら](https://github.com/mocchii1220-main/eq-overlay/releases)
 ## 利用について
 
 
